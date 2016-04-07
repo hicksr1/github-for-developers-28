@@ -1,2 +1,2 @@
 # test
-# add favorite color
+** favorite color: ** Green
